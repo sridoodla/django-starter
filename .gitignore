@@ -203,3 +203,5 @@ ENV/
 # Local Database
 db.sqlite3
 
+# Secret Settings
+app/settings/secret.py
